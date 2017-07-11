@@ -1,0 +1,2 @@
+hi , this file is created to learn git using ubuntu command line
+
